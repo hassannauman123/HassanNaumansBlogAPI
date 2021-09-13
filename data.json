@@ -1,0 +1,19 @@
+[{
+    "id": "1631449051630",
+    "title": "About me:",
+    "content": "My name is Hassan Nauman and I am a 2nd year Computer Science student at The University of Manitoba. I came to Winnipeg in May 2018 in ICM. I am originally from Lahore, Pakistan but am born and raised in Riyadh, Saudi Arabia. I am currently in Riyadh as my university is closed and all the classes are online. \n\nLet me know about yourself by clicking on the “+” button. Make sure to add a picture of yourself so I can get to know you better .\n",
+    "post_image": "uploads/post-image-1631449051607.jpg",
+    "added_date": "1631449051630"
+}, {
+    "id": "1631448509949",
+    "title": "How I learned to design websites",
+    "content": "This summer I took a software development course in which they taught me how to design websites using HTML, CSS and JS. I also learned how to use API’s like REST API using NodeJS. I am also currently learning ReactJS. I aim to work on projects as a freelancer after I have mastered web development/app development. ",
+    "post_image": "uploads/post-image-1631448509947.png",
+    "added_date": "1631448509949"
+}, {
+    "id": "1631448216613",
+    "title": "What I’m working on right now?",
+    "content": "I am currently building a mobile-friendly website for the Pakistani Students’ Association(UofM). I myself am a member so I recently came up with the idea to build a website on which we can introduce our team, market our events and help new students by sharing all the necessary information needed.",
+    "post_image": "uploads/post-image-1631448216607.jpg",
+    "added_date": "1631448216613"
+}]
